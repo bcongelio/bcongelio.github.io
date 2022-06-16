@@ -1,0 +1,39 @@
+---
+title: "Bradley J. Congelio, Ph.D."
+image: "brad.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/brad-congelio/"
+  - label: Twitter
+    url: "https://twitter.com/BradCongelio"
+  - label: GitHub
+    url: "https://github.com/bcongelio"
+  - label: Email
+    url: "mailto:congelio@kutztown.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Hi, I am Brad. I am curretly an Assistant Professor in the College of Business at Kutztown University of Pennsylvania. My main area of instruction is in Data Analytics, as well as teaching my very popular Sport Analytics (SPT 313) course.
+
+My research focuses on using big data, the R programming language, and analytics to explore the impact of professional stadiums on neighboring communities. I use the proprietary Zillow ZTRAX database as well as U.S. Census and other forms of data to create robust, applied, and useful insight into how best to protect those livings in areas where stadiums are proposes for construction.
+
+As well, my work in sport analytics, specifically the NFL, has been featured on numerous media outlets, including the USA Today and Sports Illustrated.
+
+## Education
+
+**University of Western Ontario** | London, Ontario, Canada
+
+Ph.D. in Socio-Cultural Studies | 2014
+
+**The University of California, San Diego** | San Diego, California
+
+Specialized Certificate: R for Data Analytics | 2021
+
+## Experience
+
+**Kutztown University** | Assistant Professor | 2018 - Present
+
+**Keystone College** | Assistant Professor | 2014 - 2018
