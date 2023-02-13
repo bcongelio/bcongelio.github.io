@@ -22,6 +22,10 @@ My research focuses on using big data, the R programming language, and analytics
 
 As well, my work in sport analytics, specifically the NFL, has been featured on numerous media outlets, including the USA Today and Sports Illustrated.
 
+## Examples of Projects
+
+1.  [Customer Churn Prediction](https://bcongelio.shinyapps.io/ticket_churn/): Using ticket purchase data from the LA Kings (provided via the National Sports Analytics Intercollegiate Championship), I decided an **XGBoost** classification machine learning model that can predict (with roughly 90% accuracy) whether a ticket-buying customer is likely to return to a second game or not. Click the link above to view the model in its current ShinyApp format.
+
 ## Education
 
 **University of Western Ontario** \| London, Ontario, Canada
