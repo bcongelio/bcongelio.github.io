@@ -16,7 +16,7 @@ output:
 
 ## Bio
 
-Hi, I am Brad. I am currently an Assistant Professor in the College of Business at Kutztown University of Pennsylvania. My main area of instruction & research is in Data Analytics, as well as teaching my very popular Sport Analytics (SPT 313) course.
+Hi, I am Brad. I am currently an Assistant Professor in the College of Business at Kutztown University of Pennsylvania. My main area of instruction & research is in Data Analytics, as well as teaching my very popular Sport Analytics (SPT 313) course. I am also the author of [Introduction to NFL Analytics with R](https://www.routledge.com/Introduction-to-NFL-Analytics-with-R/Congelio/p/book/9781032427751), which is published by Routledge.
 
 My research focuses on using big data, the R programming language, and analytics to explore the impact of professional stadiums on neighboring communities. I use the proprietary Zillow ZTRAX database as well as U.S. Census and other forms of data to create robust, applied, and useful insight into how best to protect those livings in areas where stadiums are proposes for construction.
 
