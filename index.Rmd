@@ -16,16 +16,16 @@ output:
 
 ## Bio
 
-Hi, I am Brad. I am currently an Assistant Professor in the College of Business at Kutztown University of Pennsylvania. My main area of instruction & research is in Data Analytics, as well as teaching my very popular Sport Analytics (SPT 313) course. I am also the author of [Introduction to NFL Analytics with R](https://www.routledge.com/Introduction-to-NFL-Analytics-with-R/Congelio/p/book/9781032427751), which is published by Routledge.
+Hi, I am Brad. I am currently an Assistant Professor in the College of Business at Kutztown University of Pennsylvania. My main area of instruction & research is in Data Analytics, as well as teaching my very popular Sport Analytics (SPT 313) course. I am also the author of [Introduction to NFL Analytics with R](https://www.routledge.com/Introduction-to-NFL-Analytics-with-R/Congelio/p/book/9781032427751), which is under contract with CRC Press and slated for publication in December 2023.
 
-My research focuses on using big data, the R programming language, and analytics to explore the impact of professional stadiums on neighboring communities. I use the proprietary Zillow ZTRAX database as well as U.S. Census and other forms of data to create robust, applied, and useful insight into how best to protect those livings in areas where stadiums are proposes for construction.
+My research focuses on using big data, the R programming language, and analytics to explore the impact of professional stadiums on neighboring communities. I use the proprietary Zillow ZTRAX database as well as the U.S. Census and other forms of data to create robust, applied, and useful insight into how best to protect those livings in areas where stadiums are proposed for construction.
 
 As well, my work in sport analytics, specifically the NFL, has been featured on numerous media outlets, including the USA Today and Sports Illustrated.
 
 ## Examples of Projects
 
-1.  [Introduction to NFL Analytics with R](https://www.routledge.com/Introduction-to-NFL-Analytics-with-R/Congelio/p/book/9781032427751) (book, Routledge): It has become difficult to ignore the analytics movement within the NFL. An increasing number of coaches openly integrate advanced numbers into their game plan, and commentators, throughout broadcasts, use terms such as air yards, CPOE, and EPA on a casual basis. This rapid growth, combined with an increasing accessibility to NFL data, has helped create a burgeoning amateur analytics movement. However, because learning a coding language can be a difficult enough endeavor, *Introduction to NFL Analytics with R* is purposefully written in a more informal format than readers of similar books may be accustomed to, opting to provide step-by step instructions in a structured, jargon-free manner.
-2.  [Customer Churn Prediction](https://bcongelio.shinyapps.io/ticket_churn/): Using ticket purchase data from the LA Kings (provided via the National Sports Analytics Intercollegiate Championship), I decided an **XGBoost** classification machine learning model that can predict (with roughly 90% accuracy) whether a ticket-buying customer is likely to return to a second game or not. Click the link above to view the model in its current ShinyApp format.
+1.  [Introduction to NFL Analytics with R](https://www.routledge.com/Introduction-to-NFL-Analytics-with-R/Congelio/p/book/9781032427751) (book, CRC Press): It has become difficult to ignore the analytics movement within the NFL. An increasing number of coaches openly integrate advanced numbers into their game plan, and commentators, throughout broadcasts, use terms such as air yards, CPOE, and EPA on a casual basis. This rapid growth, combined with an increasing accessibility to NFL data, has helped create a burgeoning amateur analytics movement. However, because learning a coding language can be a difficult enough endeavor, *Introduction to NFL Analytics with R* is purposefully written in a more informal format than readers of similar books may be accustomed to, opting to provide step-by step instructions in a structured, jargon-free manner.
+2.  [Customer Churn Prediction](https://bcongelio.shinyapps.io/ticket_churn/) (ShinyApp): Using ticket purchase data from the LA Kings (provided via the National Sports Analytics Intercollegiate Championship), an **XGBoost** classification machine learning model is used to predict (with roughly 90% accuracy) whether a ticket-buying customer is likely to return to a second game or not. Click the link above to view the model in its current ShinyApp format.
 
 ## Education
 
@@ -51,4 +51,4 @@ Specialized Certificate: R for Data Analytics \| 2021
 
 3.  Congelio, B. "Predicting the Impact of a New Stadium on Surrounding Neighborhoods Using a *k*-means Unsupervised Clustering Algorithm." Currently under peer review.
 
-4.  Congelio, B. "Examining a Megaevent's Impact on Foot Traffic to Local Businesses Using Mobility and Demographic Aggregation Data." Curently under peer review. Funding by a *SafeGraph* \$15,000 research grant.
+4.  Congelio, B. "Examining a Megaevent's Impact on Foot Traffic to Local Businesses Using Mobility and Demographic Aggregation Data." Currently under peer review. Funded by a *SafeGraph* \$15,000 research grant.
