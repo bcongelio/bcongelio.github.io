@@ -4,8 +4,6 @@ image: "brad.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/brad-congelio/"
-  - label: Twitter
-    url: "https://twitter.com/BradCongelio"
   - label: GitHub
     url: "https://github.com/bcongelio"
   - label: Email
@@ -16,16 +14,41 @@ output:
 
 ## Bio
 
-Hi, I am Brad. I am currently an Assistant Professor in the College of Business at Kutztown University of Pennsylvania. My main area of instruction & research is in Sport Data Analytics, as well as teaching my very popular Sport Analytics (SPT 313) course. I am also the author of [Introduction to NFL Analytics with R](https://www.routledge.com/Introduction-to-NFL-Analytics-with-R/Congelio/p/book/9781032427751) which was published with CRC Press in December of 2023.
+I am Brad Congelio, Assistant Professor of Sport Management and University Assessment Fellow at Kutztown University of Pennsylvania. My work sits at the intersection of spatial analytics, sport tourism economics, and computational sport science, where I develop novel methodological frameworks that advance both scholarly understanding and industry practice.
 
-My research focuses on using big data, the R programming language, and analytics to explore the impact of professional stadiums on neighboring communities. I use the proprietary Zillow ZTRAX database as well as the U.S. Census and other forms of data to create robust, applied, and useful insight into how best to protect those livings in areas where stadiums are proposed for construction.
+My research program combines advanced econometric modeling with machine learning applications to address complex questions in sport management. Recent work includes developing spatial-competitive analytics frameworks for professional bass fishing, published in venues ranging from Applied Spatial Analysis and Policy to the Hawaii International Conference on System Sciences. I have received competitive external funding for this research, including a Dewey Data Research Grant supporting location intelligence analysis across multiple tournament venues.
 
-As well, my work in sport analytics, specifically the NFL, has been featured on numerous media outlets, including the USA Today and Sports Illustrated.
+I created and teach SPRT 313 (Sport Analytics). As well, I am the the author of the 2023 CRC Press book, [Introduction to NFL Analytics with R](https://www.routledge.com/Introduction-to-NFL-Analytics-with-R/Congelio/p/book/9781032427751). The work is available both as a commercial textbook and [as a free open-source resource](https://bradcongelio.com/nfl-analytics-with-r-book/), consistent with my commitment to democratizing analytics education.
 
-## Examples of Projects
+## Current Projects
 
-1.  [Introduction to NFL Analytics with R](https://www.routledge.com/Introduction-to-NFL-Analytics-with-R/Congelio/p/book/9781032427751) (book, CRC Press): It has become difficult to ignore the analytics movement within the NFL. An increasing number of coaches openly integrate advanced numbers into their game plan, and commentators, throughout broadcasts, use terms such as air yards, CPOE, and EPA on a casual basis. This rapid growth, combined with an increasing accessibility to NFL data, has helped create a burgeoning amateur analytics movement. However, because learning a coding language can be a difficult enough endeavor, *Introduction to NFL Analytics with R* is purposefully written in a more informal format than readers of similar books may be accustomed to, opting to provide step-by step instructions in a structured, jargon-free manner.
-2.  [Customer Churn Prediction](https://bcongelio.shinyapps.io/ticket_churn/) (ShinyApp): Using ticket purchase data from the LA Kings (provided via the National Sports Analytics Intercollegiate Championship), an XGBoost classification machine learning model is used to predict (with roughly 90% accuracy) whether a ticket-buying customer is likely to return to a second game or not. Click the link above to view the model in its current ShinyApp format.
+### Spatial-Competitive Analytics in Professional Bass Fishing
+
+I am developing a comprehensive analytical framework that integrates spatial analysis, machine learning, and network theory to quantify location-based strategic advantages in tournament bass fishing. This multi-phase research program includes:
+
+-   **Network-Based Performance Metrics**: Published framework introducing the Product Water Coefficient, Competitive Advantage Metric, and Integrated Location Importance Metric to evaluate spatial strategy effectiveness. Accepted for presentation at the 59th Hawaii International Conference on System Sciences (January 2025).
+
+-   **Weight Over Expected (WOE) Model**: Machine learning framework using XGBoost to isolate individual angler skill from environmental and situational factors. The model analyzes 40,000+ fish catch records and demonstrates strong predictive performance (R² = 0.394), with planned manuscript submission to the *Journal of Quantitative Analysis in Sports* (Spring 2026).
+
+<!-- -->
+
+-   **Multi-Tournament Spatial Analysis**: Leveraging Dewey Data grant support to examine tournament outcomes across multiple venues and seasons (2023-2025 Elite Series), investigating how location strategies vary by lake type, seasonal timing, and competitive field composition.
+
+### Sports Sales Training Platform
+
+Development of a comprehensive web-based platform (<https://sportsales.app>) that transforms sales education through:
+
+-   **AI-Powered Simulations**: Interactive phone and email scenarios with branching dialogue trees and real-time performance feedback across eight core sales competencies
+
+-   **Analytics Dashboards**: Competency heatmaps, performance trends, and early-warning indicators enabling data-driven pedagogical interventions
+
+-   **Voice-to-Voice Integration**: Currently developing conversational AI features using OpenAI's real-time API for authentic verbal sales practice
+
+The platform's multi-tenant architecture positions it for broader adoption across sport management programs nationally, with beta testing underway in SPRT 236 (Fall 2025) before full implementation in Spring 2026.
+
+### Introduction to NFL Analytics with R
+
+My 2023 CRC Press textbook continues to impact sport analytics education through documented course adoptions at Syracuse University (SAL 613: Football Analytics Application), UNC Chapel Hill (STOR 538: Sport Analytics), and Villanova University. The work is available both commercially and [as a free open-source resource.](https://bradcongelio.com/nfl-analytics-with-r-book/)
 
 ## Education
 
@@ -48,8 +71,30 @@ Assistant Professor \| 2018 - 2023
 
 ## Recent Publications
 
-1.  Congelio, B. (2023). *Introduction to NFL Analytics with R* (CRC Press, 2023).
+### Books
 
-2.  Congelio, B. (2022). "Examining the Impact of New Stadium Construction on Local Property Prices Using Data Analytics and the Zillow ZTRAX Database." *Journal of Business, Economics, and Technology*. Spring 2022, 39-55.
+**Congelio, B.** (2023). *Introduction to NFL Analytics with R*. CRC Press.
 
-3.  Congelio, B. (2021). "Monitoring the Policing of Olympic Host Cities: A Novel Approach Using Data Analytics and the LA2028 Olympic Summer Games." *Journal of Olympic Studies* 2(2), 129-145.
+-   Adopted as primary text at Syracuse University (SAL 613) and featured at UNC Chapel Hill (STOR 538)
+
+-   Available in print and as free open-source resource
+
+-    Nearly 700 units sold through June 2025
+
+### Journal Articles
+
+**Congelio, B.** (2025). "Location Intelligence in Sport Tourism Economics: Temporal Evolution and Sectoral Variation of Bassmaster Elite Series Fishing Tournaments." *Applied Spatial Analysis and Policy* 18, 81. <https://doi.org/10.1007/s12061-025-09688-w>
+
+**Congelio, B.** (2024). "Integrating a Practical Sport Analytics Course into Sport Management Education." *The COSMA Journal* 1(1). <https://doi.org/10.25035/cosma.01.01.07>
+
+**Congelio, B.** (2024). "Examining the Impact of New Stadium Construction on Local Property Prices Using Data Analytics and the Zillow ZTRAX Database." *Journal of Business, Economics, and Technology* 39-55.
+
+**Congelio, B.** (2021). "Monitoring the Policing of Olympic Host Cities: A Novel Approach Using Data Analytics and the R Programming Language." *Journal of Olympic Studies* 2(2), 129-145. <https://doi.org/10.5406/jofolympstud.2.2.0129>
+
+### Book Chapters
+
+**Congelio, B.** (2024). "Analytics Democratization: How the NFL Fosters a Pipeline of Future Analysts through Digital Data Accessibility." In J. McNiff-Villemaire & H. Huang (Eds.), *Digital Transformation in Sports*. Taylor & Francis. <https://doi.org/10.1201/9781032665191>
+
+### Conference Papers
+
+**Congelio, B.** (2025). "Spatial-Competitive Analytics in Professional Bass Fishing: A Network-Based Framework for Location Strategy Analysis." *Proceedings of the 59th Hawaii International Conference on System Sciences (HICSS)*. Accepted for presentation, January 2025.
